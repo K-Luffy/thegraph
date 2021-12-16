@@ -1,0 +1,27 @@
+{
+  "name": "thegraph",
+  "version": "1.0.0",
+  "description": "------\r # graphql\r ![rest-graphql](https://user-images.githubusercontent.com/80952621/146313988-229cf972-ae28-4954-9a7a-e3a459622c4d.png)",
+  "main": "graphql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K-Luffy/thegraph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K-Luffy/thegraph/issues"
+  },
+  "homepage": "https://github.com/K-Luffy/thegraph#readme",
+  "dependencies": {
+    "apollo-server-express": "^3.5.0",
+    "body-parser": "^1.19.1",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.1.0",
+    "graphql-tools": "^8.2.0"
+  }
+}
