@@ -1,6 +1,4 @@
-# Thegraph
 
-------
 # graphql
 yarn install<br>
 <br>
